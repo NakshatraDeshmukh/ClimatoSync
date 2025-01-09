@@ -1,0 +1,31 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+venv/
+.env/
+
+# Power BI .pbix file (if not required to track)
+*.pbix
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# SQL database files
+*.sqlite
+*.db
+
+# Log files
+*.log
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# Windows Thumbs.db
+Thumbs.db
+
+# MacOS .DS_Store files
+.DS_Store
