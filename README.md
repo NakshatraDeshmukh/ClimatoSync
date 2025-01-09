@@ -1,4 +1,4 @@
-# 🌐 **ClimatoSync: Real-Time Weather Data ETL Pipeline & Dashboard** 🌦️📊
+# 🌐 **ClimatoSync: Real-Time Weather Data ETL Pipeline & Dashboard** 📊
 
 ## 📋 **Project Overview**:
 ClimatoSync is a real-time weather data pipeline and dashboard built using **Confluent Kafka**, **Python**, **PostgreSQL**, and **Power BI**. It fetches weather data from an external API, processes it, and stores it in a PostgreSQL database for analysis and visualization. The processed data is then displayed on a dynamic, interactive dashboard built with **Power BI**. This solution allows users to monitor weather metrics in real time with insights like temperature and humidity trends.
